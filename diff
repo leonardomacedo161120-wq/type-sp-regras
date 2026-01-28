@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Regras | TYPE SP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+            color: #ffffff;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #00ffcc;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #00e6b8;
+        }
+        .box {
+            background: #141414;
+            border-left: 5px solid #00ffcc;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+        p {
+            margin: 8px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 14px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<h1>📜 Regras Oficiais da Cidade<br>TYPE SP</h1>
+
+<div class="box">
+    <h2>📌 Regras Gerais</h2>
+    <p>1. Respeito é obrigatório entre todos os jogadores.</p>
+    <p>2. É proibido qualquer tipo de preconceito, ofensa ou discriminação.</p>
+    <p>3. Proibido uso de cheats, hacks, bugs ou programas externos.</p>
+    <p>4. É obrigatório seguir as regras do Discord e da cidade.</p>
+    <p>5. Qualquer atitude fora do RP poderá gerar punição.</p>
+</div>
+
+<div class="box">
+    <h2>🎭 Regras de Roleplay (RP)</h2>
+    <p>1. Sempre valorize sua vida (VL).</p>
+    <p>2. É proibido Power Gaming (ações irreais).</p>
+    <p>3. É proibido Meta Gaming (usar informações fora do RP).</p>
+    <p>4. Fear RP deve ser respeitado em situações de risco.</p>
+    <p>5. Combat Logging é proibido (deslogar para fugir do RP).</p>
+</div>
+
+<div class="box">
+    <h2>🚗 Regras de Veículos</h2>
+    <p>1. Proibido dirigir de forma irreal ou suicida sem motivo de RP.</p>
+    <p>2. Veículos devem ser utilizados conforme o contexto do RP.</p>
+    <p>3. Proibido usar veículos para matar jogadores sem RP.</p>
+</div>
+
+<div class="box">
+    <h2>🔫 Regras de Ações</h2>
+    <p>1. Toda ação deve ter RP e motivo plausível.</p>
+    <p>2. É proibido iniciar ação sem interação prévia.</p>
+    <p>3. Proibido RDM (matar sem motivo) e VDM (atropelar sem RP).</p>
+    <p>4. Negociações devem ser respeitadas.</p>
+</div>
+
+<div class="box">
+    <h2>⚠️ Punições</h2>
+    <p>• Advertência verbal ou escrita.</p>
+    <p>• Banimento temporário.</p>
+    <p>• Banimento permanente.</p>
+    <p>• A staff tem palavra final em qualquer situação.</p>
+</div>
+
+<footer>
+    © TYPE SP — Todos os direitos reservados<br>
+    Ao jogar na cidade, você concorda com todas as regras.
+</footer>
+
+</body>
+</html>
